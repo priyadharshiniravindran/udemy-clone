@@ -17,5 +17,5 @@ Clone the repository:
 sh
 Copy
 Edit
-git clone https://github.com/yourusername/udemy-clone.git
+git clone https://priyadharshiniravindran.github.io/udemy-clone/.git
 Open the index.html file in your browser.# udemy-clone
